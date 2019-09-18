@@ -1,2 +1,2 @@
 # OpencvWithUVCCamera
-使用USB摄像头做Opencv图像处理
+## 在Android端使用opencv，进行视频的动作检测
